@@ -2,5 +2,7 @@
 
 # ignore folders
 .hypothesis/
+__pycache__/
+.pytest_cache/
 
 # ignore file with extension
